@@ -1,4 +1,0 @@
-AuthUserFile /home/www/web15/.htpasswddb
-AuthName "Bereich für die Datenbankadministration"
-AuthType Basic
-require valid-user

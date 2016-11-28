@@ -1,4 +1,0 @@
-AuthName "Administration Interner Bereich"
-AuthType Basic
-require group webgroup
-require user Seidel
