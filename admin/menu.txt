@@ -1,0 +1,11 @@
+Cacti;cacti
+Stundenplan;stuplaadmin
+Stundenplansperrungen;/Vertretung/VertretungSperrung.php
+Aufsichtsplan;Aufsicht
+Interner Bereich;internadmin
+Schülerdaten;schuelerdaten/Datenimport.php
+Lehrerdaten;schuelerdaten/Lehrerdaten.php
+Terminkategorien;TerminKategorien.php
+phpMyAdmin Homepage;phpMyAdmin 
+phpMyAdmin Schüler;https://webspace.oszimt.de/phpMyAdmin
+Startseite Lehrerbereich;/

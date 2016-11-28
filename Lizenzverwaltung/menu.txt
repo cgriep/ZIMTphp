@@ -1,0 +1,11 @@
+Bearbeiten;index.php
+Lizenzliste;Lizenzliste.php
+Lizenznummern;Produkte.php
+Volumelizenzen;volumelizenzen.php
+Bestellungen;Bestelluebersicht.php
+Lizenznummer freigeben;lizenzfrei.php
+Ausleiher suchen;ausleihersuchen.php
+Produkte;sperrung.php
+Lizenznummer einlesen;readkeys.php
+CD-Liste/Rückgabe;CD.php
+Startseite Lehrerbereich;/

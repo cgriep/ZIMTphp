@@ -1,0 +1,19 @@
+@page {
+  size:landscape;
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+  margin-left: 0.5cm;
+  margin-right:0.5cm;
+}
+.Termintable { border-spacing: 0pt; border-collapse: collapse;
+               text-align:center; font-size: 8pt;
+               max-width: 100%;
+             }
+.mitRahmen {
+  border-width:1pt; border-color: black; border-style: solid;
+  vertical-align: top;}
+.ohneRahmen { border-style: none; }
+.Uhrzeit { font-size: 6pt; }
+.Turnus { font-style: italic; font-size: 6pt; }
+.Ferien { font-weight: bold; }
+.Termininfo { font-style: italic; font-size: 6pt; }

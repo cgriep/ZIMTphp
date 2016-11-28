@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Zugang zum MSDNAA-Administrationsbereich"
+require group MSDNAA
+ 

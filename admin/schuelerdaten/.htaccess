@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Zugang zum Administrationsbereich Lehrer/Schuelerdaten"
+DirectoryIndex Datenimport.php
+require group Webgroup
+require group Schulleitung

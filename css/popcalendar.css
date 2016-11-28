@@ -1,0 +1,121 @@
+<!--
+.table-style {
+padding: 4px;
+border-width: 1px;
+border-style: outset;
+border-color: #DEDEDE; background-color: #EEEEFE;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+.div-style {
+z-index: +999;
+position: absolute;
+visibility: hidden;
+left: 100;
+top: 50;
+}
+.title-style {
+padding: 2px;
+background-color: #EEEEFE;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+.title-background-style {
+background-color: #EEEEFE;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+.title-control-normal-style {
+border-style: solid;
+border-width: 1;
+border-color: #C1C1C1;
+cursor: pointer;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+.title-control-select-style {
+border-style: solid;
+border-width: 1;
+border-color: #666699;
+cursor: pointer;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+.dropdown-style {
+border-width: 1px;
+border-style: outset;
+border-color: #DEDEDE; background-color: #DEDEDE;
+color: black;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+.dropdown-select-style {
+background-color: #666699; color: white;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+.dropdown-normal-style {
+background-color: #EEEEFE;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+.body-style {
+padding: 5px;
+background-color: #EEEEFE;
+font-size: 10px;
+}
+.current-day-style {
+color: #666699;
+font-weight: bold;
+text-decoration: none;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+
+}
+.end-of-weekday-style {
+color: #C1C1C1;
+text-decoration: none;
+}
+.normal-day-style {
+color: black;
+text-decoration: none;
+}
+.selected-day-style {
+border-style: solid;
+border-width: 1px;
+border-color: #a0a0a0;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+.holiday-style {
+background-color: #C0C0C0; color: white;
+}
+.today-style {
+padding: 0px;
+color: black;
+background-color: #EEEEFE;
+text-align: center;
+text-decoration: none;
+font-family : verdana, geneva, arial;
+font-size: 11px;
+}
+a.current-day-style:hover
+{
+text-decoration : underline;
+}
+a.normal-day-style:hover
+{
+text-decoration : underline;
+}
+a.today-style:hover
+{
+text-decoration : underline;
+}
+.weeknumber-div-style {
+background-color: #d0d0d0;
+padding: 0px;
+}
+.bgw {
+background-color: white;
+}
+-->

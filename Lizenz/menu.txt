@@ -1,0 +1,9 @@
+Bearbeiten;index.php
+Lizenzliste;Lizenzliste.php
+CD-Liste/Rückgabe;CD.php
+Lizenznummern;Produkte.php
+Bestellungen;Bestelluebersicht.php
+Produkte sperren;sperrung.php
+Lizenznummer einlesen;readkeys.php
+Lizenznummer freigeben;lizenzfrei.php
+Ausleiher suchen;ausleihersuchen.php

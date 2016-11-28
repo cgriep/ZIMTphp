@@ -1,0 +1,13 @@
+AuthUserFile /home/htaccess/htpasswd
+AuthGroupFile /home/htaccess/htgroups
+AuthName "Zugriff auf den internen Bereich"
+AuthType Basic
+require group lehrer
+require group Vertretung
+require group Inventar
+# ErrorDocument 404 https://lehrer.oszimt.de
+
+#RewriteEngine On 
+#RewriteCond %{SERVER_PORT} !443$
+#RewriteRule ^/(.*)         https://lehrer.bscw-oszimt.de/$1 [L,R]
+

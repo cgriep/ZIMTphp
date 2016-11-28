@@ -1,0 +1,74 @@
+<?php
+
+function ladeOszKopf_o($titel, $ueberschrift)
+{
+  $Kopf_o = 	
+"<html>
+\t<head>
+\t\t<title>$titel</title>
+\t\t<meta http-equiv=\"content-type\" content=\"text/html; charset=iso-8859-1\">
+\t\t<meta name=\"author\" content=\"Webgroup am OSZ IMT\">
+\t\t<meta http-equiv=\"reply-to\" content=\"webmaster@oszimt.de\">
+\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"http://css.oszimt.de/evaluation.css\">
+\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"http://css.oszimt.de/style.css\">
+\t</head>
+\t<body>
+\t\t<table class = \"oszRahmen_bg\" height = \"100%\" width = \"100%\" cellpadding = \"0\" cellspacing = \"0\" border = \"0\">
+\t\t\t<tr height = \"1%\">
+\t\t\t\t<td style = \"text-align:center\" width = \"1%\"><a href = \"http://www.oszimt.de/\"><img src = \"http://img.oszimt.de/logo/oszimt-logo.gif\" alt = \"OSZ IMT (Logo)\" border = \"0\"></a></td>
+\t\t\t\t<td class = \"oszHeader\" width = \"1%\" nowrap>Oberstufenzentrum<br>Informations- und Medizintechnik</td>
+\t\t\t\t<td>&nbsp;</td>
+\t\t\t\t<td>&nbsp;</td>
+\t\t\t</tr>
+\t\t\t<tr>
+\t\t\t\t<td  class = \"oszInhalt_bg\" colspan = \"3\" style = \"vertical-align:top;\">";
+  
+  if($ueberschrift != "keine")
+    $Kopf_o .= "\t\t\t\t\t<div id = \"oszUeberschrift\"><span class = \"ueberschrift\">$ueberschrift</span></div>";
+  
+  $Kopf_o .=
+"<!------------------------------------------------------------->
+<!-------------------------Inhalt------------------------------>
+<!------------------------------------------------------------->";
+  return $Kopf_o;
+}
+
+function ladeOszKopf_u()
+{
+  $Kopf_u =	
+"\n<!------------------------------------------------------------->
+<!---------------------------Ende Inhalt----------------------->
+<!------------------------------------------------------------->
+\t\t\t\t</td>
+\t\t\t\t<td id = \"oszLinkleiste\">
+\t\t\t\t\t<!--Linkleiste-->
+\t\t\t\t\t<table cellpadding = \"0\" cellspacing = \"0\" border = \"0\">";
+  return $Kopf_u;
+}
+
+function ladeLinkIE($href,$hLink)//fuer IE
+{
+  return "\n\t\t\t\t\t\t<tr><td><a class = \"Lile\" href = \"$href\"><span class = \"link\"><span class = \"linkeinrueck\">$hLink</span></span></a></td></tr>";
+}	   
+
+function ladeLinkX($href,$hLink)//fuer andere Browser
+{
+  return "\n\t\t\t\t\t\t<tr><td class = \"Lile\"><a href = \"$href\"><span class = \"link\"><span class = \"linkeinrueck\">$hLink</span></span></a></td></tr>";
+}      
+
+function ladeOszFuss()
+{
+  $Fuss =	
+"\n\t\t\t\t\t</table>
+\t\t\t\t\t<!--Ende Linkleiste-->
+\t\t\t\t</td>
+\t\t\t</tr>
+\t\t\t<tr id = \"oszFussleiste\">
+\t\t\t\t<td colspan = \"4\">&nbsp;</td>
+\t\t\t</tr>
+\t\t</table>
+\t</body>
+</html>";
+  return $Fuss;
+}
+?>

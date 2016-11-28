@@ -1,0 +1,393 @@
+td  {
+	empty-cells : show;
+}
+
+a  {
+	color : #6699cc;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	text-decoration : none;
+}
+
+a:visited  {
+	color : #6699cc;
+	text-decoration : none;
+}
+
+a:hover  {
+	color : #6699cc;
+	text-decoration : none;
+}
+
+a:active  {
+	color : #6699cc;
+	text-decoration : none;
+}
+
+a:focus  {
+	color : #6699cc;
+	text-decoration : none;
+}
+
+.content  {
+	font-size : 10pt;
+	font-weight : 400;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #000000;
+	background-color : #DDDDDD;
+}
+
+.content-bold  {
+	font-size : 10pt;
+	font-weight : 700;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #000000;
+	background-color : #DDDDDD;
+}
+
+.cont-bold-zentriert  {
+	font-size : 10pt;
+	font-weight : 700;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #000000;
+	background-color : #DDDDDD;
+	text-align : center;
+}
+
+.content-small-bold  {
+	font-size : 8pt;
+	font-weight : 600;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #000000;
+	background-color : #DDDDDD;
+}
+
+.margin  {
+	font-size : 9pt;
+	font-weight : 600;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+}
+
+.newsletter  {
+	font-size : 8pt;
+	font-weight : 400;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #000000;
+	background-color : #ffffff;
+}
+
+.noten  {
+	font-size : 8pt;
+	font-weight : 400;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #000000;
+	background-color : #DDDDDD;
+}
+
+.ansprechpartner  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	vertical-align : top;
+	padding-bottom : 0.5em;
+}
+
+.radio  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	padding-top : 0.5em;
+}
+
+.small  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	vertical-align : top;
+}
+
+.small-ztr  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	text-align : center;
+}
+
+.sponsor  {
+	font-size : 10pt;
+	font-weight : 700;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #000000;
+	background-color : #eeeeee;
+	font-style : italic;
+}
+
+.locationline  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.navigation  {
+	font-size : 20pt;
+	font-weight : 900;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #0099cc;
+}
+
+.titel  {
+	font-size : 12pt;
+	font-weight : 600;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	margin-top : 0.6em;
+	margin-bottom : 0.6em;
+}
+
+.navlink  {
+	font-size : 10pt;
+	font-weight : 900;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #0099cc;
+}
+
+.active-navlink  {
+	font-size : 10pt;
+	font-weight : 900;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+}
+
+a:link.activenavlink  {
+	color : #000000;
+}
+
+a:visited.active-navlink  {
+	color : #000000;
+}
+
+.name  {
+	font-size : 10pt;
+	font-weight : 100;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	line-height : 0.9em;
+	margin-top : 9;
+}
+
+.picture  {
+	font-size : 10pt;
+	font-weight : 400;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #000000;
+	background-color : #DDDDDD;
+	top : auto;
+	padding-top : 3pt;
+}
+
+.search  {
+	font-size : 10pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.funktion  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.adresse  {
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-size : 8pt;
+	font-weight : 400;
+}
+
+.abstand-2pt  {
+	font-family : 'Verdana', Arial, Geneva,sans-serif;
+	font-size : 2pt;
+}
+
+.abstand-5pt  {
+	font-family : 'Verdana', Arial, Geneva,sans-serif;
+	font-size : 5pt;
+}
+
+table  {
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-size : 9pt;
+}
+
+.zabstand  {
+	margin-bottom : 0.5em;
+}
+
+.zabstand2  {
+	margin-bottom : 0.5em;
+	margin-left : 1.5em;
+}
+
+.zabstand3  {
+	margin-top : 1.5em;
+	margin-left : 1.5em;
+}
+
+.wochenende  {
+	background-color : #CCCCCC;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-size : 9pt;
+}
+
+.unterlegt  {
+	background-color : #BBBBBB;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-size : 9pt;
+}
+
+.wochenplan  {
+	background-color : #DDDDDD;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-size : 9pt;
+}
+
+.abbildung  {
+	font-size : 8pt;
+	font-style : italic;
+	font-family : "Verdana", Arial, Geneva;
+	font-weight : 400;
+}
+
+.ueberschrift  {
+	font-size : 12pt;
+	font-family : "Verdana", Arial, Geneva;
+	font-weight : 600;
+}
+
+.stdplan-titel  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.stdplan-stunden  {
+	font-size : 10pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.stdplan-stunden-ztr  {
+	font-size : 10pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	text-align : center;
+}
+
+.noten-titel  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 700;
+}
+
+.link  {
+	font-size : 10pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.link-einzug  {
+	font-size : 10pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	margin-left : 1em;
+	padding-bottom : 1em;
+}
+
+.link-einzug-small  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	margin-left : 2em;
+	padding-bottom : 0.5em;
+}
+
+.link-2li  {
+	font-size : 10pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	margin-top : -2em;
+}
+
+.link-li  {
+	font-size : 10pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	margin-top : -1em;
+}
+
+.link-new  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.fileinfo  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 100;
+}
+
+.zimtmail  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+	vertical-align : middle;
+}
+
+.home-rubrik  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 600;
+}
+
+.home-rubrik-link  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 500;
+}
+
+.home-rubrik-small  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.home-content-rubrik  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 600;
+}
+
+.home-content-titel  {
+	font-size : 10pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 700;
+}
+
+.home-content  {
+	font-size : 10pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.home-content-small  {
+	font-size : 8pt;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	font-weight : 400;
+}
+
+.pfeil-top  {
+	font-size : 10pt;
+	font-weight : 400;
+	font-family : "Verdana", Arial, Geneva,sans-serif;
+	color : #000000;
+	background-color : #DDDDDD;
+	padding-right : 2pt;
+	text-align : right;
+}
+

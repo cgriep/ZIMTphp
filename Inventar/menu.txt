@@ -1,0 +1,7 @@
+Inventar;Inventar.php
+Räume;Raeume.php
+Raumübersicht;Raumliste.php
+Lieferanten;Lieferant.php
+Listen;Inventarliste.php
+Inventarlabels;LabelPDF.php
+Aktuelle Probleme;Problemliste.php

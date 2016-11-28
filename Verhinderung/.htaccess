@@ -1,0 +1,7 @@
+AuthName "Zugriff auf Verhinderungen"
+AuthType Basic
+require group Vertretung
+
+DirectoryIndex Verhinderung.php
+# ErrorDocument 404 https://lehrer.oszimt.de/Verhinderung/Verhinderung.php
+

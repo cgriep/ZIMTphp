@@ -1,0 +1,4 @@
+V-Plan;Vertretungsplan.php
+Fortbildungen;/Service/Fortbildungsliste.php
+Reservierungen;Reservierungen.php
+Interner Lehrerbereich;/

@@ -1,0 +1,6 @@
+Klausurergebnisse eingeben;../Klausurergebnisse.php
+Klausurergebnisse auswerten;../Klausurauswertung.php
+Klausuren auflisten;../Klausuranzeigen.php
+Fehlende Klausurergebnisse;../Klausurliste.php
+Klausuranzahlen bearbeiten;Klausuranzahl.php
+Startseite Lehrerbereich;/

@@ -1,0 +1,6 @@
+AuthName "Zugriff auf Vertretungen"
+AuthType Basic
+require group Vertretung
+DirectoryIndex VertretungPlanen.php
+# ErrorDocument 404 https://lehrer.oszimt.de/Vertretung/VertretungPlanen.php
+

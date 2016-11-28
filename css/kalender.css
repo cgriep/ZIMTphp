@@ -1,0 +1,17 @@
+.Termintable { border-spacing: 0pt; border-collapse: collapse;
+               text-align:center; font-size: 8pt;
+             }
+.Termintable td { max-width: 2.2cm; overflow: hidden;}
+.mitRahmen { border-width:1pt; border-color: black; border-style: solid; vertical-align: top;}
+.ohneRahmen { border-style: none; }
+.Uhrzeit { font-size: 6pt; }
+.Turnus { font-style: italic; font-size: 6pt; }
+.Ferienname { font-weight: bold; }
+.Ferien { background-color: #0080FF; }
+.Ferien a { 
+  color: #FF0000;
+  font-weight: bold; }
+.Wochenendetag { background-color: yellow; }
+.Termininfo { font-style: italic; font-size: 6pt; }
+.Termin { font-size: 7pt; }
+.vorlaeufig { background-color:#FF7F00; }

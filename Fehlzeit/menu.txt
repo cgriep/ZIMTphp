@@ -1,0 +1,7 @@
+Klassen-/Kursliste;/Service/Klassenliste.php
+Schülerstundenplan;Schuelersuche.php
+Fehlzeiten eingeben;Kursliste.php
+Mehrtägige Fehlzeit eingeben;Attest.php
+Fehlzeitenübersicht;Fehlzeiten.php
+Aktualität anzeigen;Aktualitaet.php
+Startseite Lehrerbereich;/

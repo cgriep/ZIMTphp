@@ -1,0 +1,5 @@
+Aufsichtsplan;Aufsicht.php
+Aufsichtsorte;Aufsichtsadmin.php
+Stundenplan;../stuplaadmin
+Schülerdaten;../schuelerdaten/Datenimport.php
+zurück;/

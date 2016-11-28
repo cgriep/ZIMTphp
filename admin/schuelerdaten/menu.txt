@@ -1,0 +1,3 @@
+Daten importieren;Datenimport.php
+Lehrerdaten bearbeiten;Lehrerdaten.php
+Startseite Lehrerbereich;/

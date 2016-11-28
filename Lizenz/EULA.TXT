@@ -1,0 +1,428 @@
+ENDBENUTZER-LIZENZVERTRAG FÜR MICROSOFT-SOFTWARE
+
+WICHTIG - BITTE SORGFÄLTIG LESEN: Dieser Endbenutzer-
+Lizenzvertrag ("EULA") ist ein rechtsgültiger Vertrag zwischen 
+Ihnen (entweder als natürlicher oder als juristischer Person) 
+und Microsoft Corporation für das diesem EULA beiliegende 
+Microsoft-Softwareprodukt, das Computersoftware sowie 
+möglicherweise dazugehörige Medien, gedruckte Materialien, 
+Dokumentation im "Online"- oder elektronischen Format und 
+internetbasierte Dienste umfasst ("Software"). Dieser Software 
+liegt möglicherweise eine Ergänzungsvereinbarung oder ein 
+Nachtrag zu diesem EULA bei. 
+
+INDEM SIE DIE SOFTWARE INSTALLIEREN, KOPIEREN ODER 
+ANDERWEITIG VERWENDEN, ERKLÄREN SIE SICH DAMIT 
+EINVERSTANDEN, DURCH DIE BESTIMMUNGEN DIESES EULAS 
+GEBUNDEN ZU SEIN. FALLS SIE SICH DAMIT NICHT 
+EINVERSTANDEN ERKLÄREN, INSTALLIEREN, KOPIEREN 
+ODER VERWENDEN SIE DIE SOFTWARE NICHT, UND GEBEN 
+SIE SIE GEGEBENENFALLS GEGEN VOLLE RÜCKERSTATTUNG 
+DES KAUFPREISES DER STELLE ZURÜCK, VON DER SIE SIE 
+ERHALTEN HABEN.
+
+1. LIZENZGEWÄHRUNG. Microsoft gewährt Ihnen unter der 
+    Voraussetzung, dass Sie alle Bestimmungen dieses EULAs 
+    einhalten, die folgenden Rechte:
+    1.1 Installation und Verwendung. Sie sind berechtigt, eine 
+          Kopie der Software auf einem einzigen Computer, 
+          beispielsweise einer Arbeitsstation, einem Terminal oder 
+          einem anderen Gerät ("Arbeitsstationscomputer"), zu 
+          installieren, zu verwenden, darauf zuzugreifen, sie 
+          anzuzeigen und auszuführen. Die Software darf nicht von 
+          mehr als zwei (2) Prozessoren gleichzeitig auf einem 
+          einzigen Arbeitsstationscomputer verwendet werden.
+    1.2 Obligatorische Aktivierung. Die in diesem EULA 
+          gewährten Lizenzrechte sind auf die ersten dreißig (30) 
+          Tage nach Ihrer ersten Installation der Software 
+          beschränkt, es sei denn, Sie stellen Informationen 
+          bereit, die für die Aktivierung Ihrer lizenzierten 
+          Kopie auf die während der Setupsequenz der Software 
+          beschriebene Weise erforderlich sind. Sie können die 
+          Software über Internet oder Telefon aktivieren; 
+          hierbei fallen möglicherweise Verbindungsgebühren an. 
+          Außerdem müssen Sie die Software möglicherweise 
+          reaktivieren, falls Sie Ihre Computerhardware oder 
+          die Software ändern. Diese Software enthält 
+          technologische Maßnahmen, die eine nicht lizenzierte 
+          Verwendung der Software verhindern sollen. Microsoft 
+          verwendet diese Maßnahmen, um zu bestätigen, dass Sie 
+          eine legal lizenzierte Kopie der Software haben. 
+          Wenn Sie keine lizenzierte Kopie der Software 
+          verwenden, sind Sie nicht berechtigt, die Software 
+          oder zukünftige Softwareupdates zu installieren. 
+          Microsoft erfasst bei diesem Vorgang keine persönlichen 
+          Informationen von Ihrem Arbeitsstationscomputer. 
+     1.3 Geräteverbindungen. Sie dürfen den Anschluss von 
+          maximal zehn (10) Computern oder elektronischen Geräten 
+          (jeweils ein "Gerät") an den Arbeitsstationscomputer 
+          ermöglichen, um einen oder mehrere der folgenden Dienste 
+          der Software zu verwenden: Dateidienste, Druckdienste, 
+          Internetinformationsdienste und Remotezugriff 
+          (einschließlich gemeinsamer Verbindungsnutzung und 
+          Telefoniediensten). In dem Maximum von zehn 
+          Verbindungen sind auch indirekte Verbindungen durch 
+          "Multiplexing"-Software oder Hardware oder durch andere 
+          Software oder Hardware enthalten, die Verbindungen in 
+          einem Pool verwaltet oder zusammenfasst. Dieses Maximum 
+          von zehn Verbindungen betrifft keine anderweitige 
+          Verwendung der Software. 
+     1.4 Die Features Remotedesktop/Remoteunterstützung/
+           NetMeeting. Die Software enthält die Technologien 
+           NetMeeting, Remoteunterstützung und Remotedesktop, 
+           die ermöglichen, dass auf die Software oder auf 
+           Anwendungen, die auf dem Arbeitsstationscomputer 
+           installiert sind (manchmal als Hostgerät bezeichnet), 
+           remote von anderen Geräten aus zugegriffen werden 
+           kann. Sie sind berechtigt, das Feature Remotedesktop 
+           der Software (oder anderer Software, die eine ähnliche 
+           Funktionalität zu einem ähnlichen Zweck bereitstellt) 
+           zu verwenden, um einem Gerät zu ermöglichen, die 
+           Software zu verwenden, anzuzeigen oder auszuführen, 
+           ohne eine Lizenz für die Software auf diesem Gerät zu 
+           erwerben, vorausgesetzt, dass nur ein Benutzer die 
+           Software gleichzeitig verwendet, anzeigt oder 
+           ausführt. Wenn Sie Remoteunterstützung oder 
+           NetMeeting (oder andere Software, die eine ähnliche 
+           Funktionalität zu einem ähnlichen Zweck bereitstellt) 
+           verwenden, sind Sie berechtigt, Ihre Sitzung ohne 
+           Beschränkung der Anzahl der Geräteverbindungen für 
+           andere Benutzer freizugeben, ohne zusätzliche Lizenzen 
+           für die Software zu erwerben. Für Anwendungen von 
+           Microsoft und für Anwendungen, die nicht von 
+           Microsoft stammen, sollten Sie den Lizenzvertrag 
+           einsehen, der der entsprechenden Software beiliegt, 
+           oder sich an den entsprechenden Lizenzgeber wenden, 
+           um festzustellen, ob die Verwendung der Software mit 
+           Remotedesktop, Remoteunterstützung oder NetMeeting 
+           ohne eine zusätzliche Lizenz gestattet ist. Eine 
+           Sitzung im oben genannten Sinne bedeutet die von der 
+           Software gelieferte Erfahrung, die der Verwendung der 
+           am Arbeitsstationscomputer angeschlossenen Eingabe-, 
+           Ausgabe- und Anzeigeperipheriegeräte durch den 
+           Benutzer entspricht. 
+     1.5 Speicherung/Netzwerkverwendung. Sie sind außerdem 
+           berechtigt, eine Kopie der Software auf einer 
+           Speichervorrichtung, wie z. B. einem Netzwerkserver, 
+           zu speichern oder zu installieren, wenn diese Kopie 
+           ausschließlich dazu verwendet wird, die Software über 
+           ein internes Netzwerk auf Ihren anderen 
+           Arbeitsstationscomputern zu installieren oder 
+           auszuführen. Sie sind jedoch verpflichtet, für die 
+           Software für jeden einzelnen Arbeitsstationscomputer, 
+           auf dem die Software installiert, verwendet, 
+           angezeigt, ausgeführt oder von dem darauf zugegriffen 
+           wird, eine zusätzliche Lizenz zu erwerben, die 
+           speziell für die Verwendung auf diesem 
+           Arbeitsstationscomputer gilt. Außer im durch die oben 
+           beschriebenen Features NetMeeting und 
+           Remoteunterstützung anderweitig gestatteten Umfang 
+           darf eine Lizenz für die Software nicht geteilt oder 
+           gleichzeitig auf verschiedenen 
+           Arbeitsstationscomputern verwendet werden. 
+
+2. BESCHREIBUNG ANDERER RECHTE UND 
+    EINSCHRÄNKUNGEN
+    2.1 Verwaltung digitaler Rechte. Inhaltsanbieter verwenden 
+          die in dieser Software enthaltene Technologie zur 
+          Verwaltung digitaler Rechte ("DRM"), um die Integrität 
+          ihres Inhalts zu schützen ("sicherer Inhalt"), damit 
+          ihr geistiges Eigentum, einschließlich Urheberrechte, 
+          an diesem Inhalt nicht entwendet wird. Teile dieser 
+          Software und Anwendungen von Drittanbietern, wie etwa 
+          Medienwiedergabeanwendungen, verwenden DRM zum 
+          Wiedergeben sicheren Inhalts ("DRM-Software"). Wenn 
+          die Sicherheit der DRM-Software gefährdet ist, können 
+          Eigentümer von sicherem Inhalt ("Eigentümer sicheren 
+          Inhalts") verlangen, dass Microsoft die Rechte der DRM-
+          Software widerruft, sicheren Inhalt zu kopieren, 
+          anzuzeigen und/oder wiederzugeben. Dieser Widerruf 
+          ändert nicht die Fähigkeit der DRM-Software, 
+          ungeschützten Inhalt wiederzugeben. Eine Liste 
+          widerrufener DRM-Software wird an Ihren Computer 
+          gesendet, wenn Sie eine Lizenz für sicheren Inhalt 
+          aus dem Internet downloaden. Sie stimmen daher zu, 
+          dass Microsoft, in Verbindung mit einer derartigen 
+          Lizenz, im Namen von Eigentümern sicheren Inhalts auch 
+          Widerrufslisten auf Ihren Computer downloaden darf. 
+          Microsoft verpflichtet sich, beim Downloaden solcher 
+          Widerrufslisten weder persönliche Informationen noch 
+          sonstige Informationen von Ihrem Computer abzurufen. 
+          Eigentümer sicheren Inhalts verlangen von Ihnen 
+          möglicherweise auch, dass Sie einige der 
+          DRM-Komponenten in dieser Software aktualisieren 
+          ("DRM-Updates"), bevor Sie auf deren Inhalt zugreifen. 
+          Wenn Sie versuchen, derartigen Inhalt wiederzugeben, 
+          benachrichtigt Sie die Microsoft-DRM-Software 
+          dahingehend, dass ein DRM-Update erforderlich ist, 
+          und bittet Sie dann um Ihre Zustimmung, bevor das 
+          DRM-Update gedownloadet wird. DRM-Software von 
+          Drittanbietern verhält sich möglicherweise 
+          entsprechend. Wenn Sie das Update ablehnen, können 
+          Sie nicht auf Inhalt zugreifen, der das DRM-Update 
+          erfordert; Sie können jedoch weiterhin auf 
+          ungeschützten Inhalt und sicheren Inhalt, der das 
+          Update nicht erfordert, zugreifen.
+    2.2 Windows Media Format Software Development Kit 
+          ("WMFSDK"). Dieses EULA gewährt Ihnen keinerlei Rechte, 
+          die in der Software enthaltenen Komponenten von WMFSDK 
+          zur Entwicklung einer Softwareanwendung zu verwenden, 
+          die Windows Media-Technologie verwendet. Falls Sie 
+          WMFSDK zur Entwicklung einer solchen Anwendung 
+          verwenden möchten, besuchen Sie 
+          http://msdn.microsoft.com/workshop/imedia/windowsmedia/
+          sdk/wmsdk.asp, akzeptieren Sie eine gesonderte Lizenz 
+          für WMFSDK, downloaden Sie das entsprechende WMFSDK, 
+          und installieren Sie es auf Ihrem System. 
+    2.3 Komponenten internetbasierter Dienste. Die Software 
+          enthält Komponenten, die die Verwendung bestimmter 
+          internetbasierter Dienste ermöglichen und erleichtern. 
+          Sie erkennen an und stimmen zu, dass Microsoft 
+          berechtigt ist, die von Ihnen verwendete Version der 
+          Software und/oder ihrer Komponenten automatisch zu 
+          überprüfen und Updates oder Fixes der Software 
+          bereitzustellen, die automatisch auf Ihren 
+          Arbeitsstationscomputer gedownloadet werden. 
+    2.4 Die Features Internetspiele/Updates. Wenn Sie sich 
+          entscheiden, die Features Internetspiele oder Updates 
+          innerhalb der Software zu verwenden, ist es zum 
+          Implementieren der Features erforderlich, bestimmte 
+          Informationen zum Computersystem, zur Hardware und zur 
+          Software zu verwenden. Indem Sie diese Features 
+          verwenden, ermächtigen Sie Microsoft oder deren 
+          bezeichneten Vertreter zum Zugriff auf die 
+          erforderlichen Informationen und zu deren Verwendung 
+          für Internetspiele und/oder Updates. Microsoft ist 
+          berechtigt, diese Informationen nur zur Verbesserung 
+          ihrer Software oder zum Liefern von benutzerdefinierten 
+          Diensten und Technologien an Sie zu verwenden. 
+          Microsoft erklärt sich einverstanden, solche Daten 
+          ausschließlich anonym offen zu legen. 
+    2.5 Sprach-/Handschriftenerkennung. Für den Fall, dass die 
+          Software eine oder mehrere Komponenten zur Sprach- 
+          und/oder Handschriftenerkennung enthält, wird darauf 
+          hingewiesen, dass es sich bei der Sprach- und 
+          Handschriftenerkennung grundsätzlich um statistische 
+          Prozesse handelt und Erkennungsfehler zu diesen 
+          Prozessen gehören. Es liegt in Ihrer eigenen 
+          Verantwortung, für die Behandlung solcher Fehler 
+          zu sorgen und den Prozess der Sprach-/
+          Handschriftenerkennung zu überwachen und mögliche 
+          Fehler zu korrigieren. Weder Microsoft noch deren 
+          Lieferanten können für Schäden haftbar gemacht werden, 
+          die durch Fehler im Sprach- und 
+          Handschriftenerkennungsprozess entstanden sind.
+
+3. RECHTS- UND EIGENTUMSVORBEHALT. Microsoft behält sich 
+    alle Ihnen in diesem EULA nicht ausdrücklich gewährten 
+    Rechte vor. Die Software ist durch Urheberrechtsgesetze 
+    und durch andere Gesetze und Abkommen über geistiges 
+    Eigentum geschützt. Microsoft oder deren Lieferanten 
+    gehören Titel, Urheberrecht und andere gewerbliche 
+    Schutzrechte an der Software. Die Software wird lizenziert, 
+    nicht verkauft.
+
+4. EINSCHRÄNKUNGEN IM HINBLICK AUF 
+    ZURÜCKENTWICKLUNG (REVERSE ENGINEERING), 
+    DEKOMPILIERUNG UND DISASSEMBLIERUNG. Sie sind nicht 
+    berechtigt, die Software zurückzuentwickeln, zu dekompilieren oder 
+    zu disassemblieren, es sei denn, dass (und nur insoweit) diese 
+    Einschränkung durch das anwendbare Recht ausdrücklich 
+    untersagt ist.
+
+5. KEINE VERMIETUNG/KEIN KOMMERZIELLES HOSTING. Sie 
+    sind nicht berechtigt, die Software zu vermieten, zu verleasen, zu 
+    verleihen oder kommerzielle Hostingdienste mit ihr bereitzustellen.
+
+6. ZUSTIMMUNG ZUR NUTZUNG VON DATEN. Sie stimmen zu, 
+    dass Microsoft und deren Tochterfirmen berechtigt sind, die 
+    technischen Daten, die im Rahmen der Ihnen zur Verfügung 
+    gestellten Produktsupportleistungen, falls vorhanden, für 
+    die Software gewonnen werden, zu sammeln und zu benutzen. 
+    Microsoft ist berechtigt, diese Informationen nur zur 
+    Verbesserung ihrer Produkte oder zum Liefern von 
+    benutzerdefinierten Diensten und Technologien an Sie 
+    zu verwenden, und verpflichtet sich, diese Informationen 
+    ausschließlich anonym offen zu legen. 
+
+7. LINKS ZU SITES VON DRITTANBIETERN. Möglicherweise 
+    können Sie durch die Verwendung der Software zu verknüpften 
+    Sites von Drittanbietern gelangen. Die Sites von Drittanbietern 
+    stehen nicht unter der Kontrolle von Microsoft, und 
+    Microsoft ist nicht für den Inhalt der Sites von 
+    Drittanbietern, für irgendwelche in den Sites von 
+    Drittanbietern enthaltenen Links oder für Änderungen oder 
+    Aktualisierungen der Sites von Drittanbietern 
+    verantwortlich. Microsoft ist nicht für Webcasting 
+    oder andere Übertragungsformen verantwortlich, die Sie 
+    von Sites von Drittanbietern empfangen. Microsoft stellt 
+    Ihnen diese Links zu Sites von Drittanbietern nur 
+    gefälligkeitshalber zur Verfügung. Daraus kann keine 
+    Billigung der jeweiligen Site eines Drittanbieters durch 
+    Microsoft abgeleitet werden.
+
+8. ZUSÄTZLICHE SOFTWARE/DIENSTE. Dieses EULA gilt für 
+    Updates, Ergänzungen, Add-On-Komponenten oder Komponenten
+    internetbasierter Dienste der Software, die Microsoft Ihnen 
+    möglicherweise bereitstellt oder verfügbar macht, nachdem 
+    Sie Ihre ursprüngliche Kopie der Software erhalten haben, 
+    es sei denn, wir stellen zusammen mit dem Update, der 
+    Ergänzung, der Add-On-Komponente oder der Komponente 
+    internetbasierter Dienste andere Bestimmungen zur Verfügung.
+    Microsoft behält sich das Recht vor, jegliche 
+    internetbasierten Dienste einzustellen, die Ihnen 
+    bereitgestellt oder durch die Verwendung der Software 
+    verfügbar gemacht werden. 
+
+9. UPDATES. Um eine als Update gekennzeichnete Software 
+    verwenden zu können, müssen Sie zuerst über eine Lizenz 
+    für die Software verfügen, die von Microsoft als für das 
+    Update geeignet gekennzeichnet ist. Nach dem Update sind 
+    Sie nicht mehr zur Verwendung der Ausgangssoftware 
+    berechtigt.
+
+10. NICHT ZUM WEITERVERKAUF BESTIMMTE SOFTWARE. 
+      Software, die als "Nicht zum Weiterverkauf bestimmt" oder 
+      "NFR" (Not For Resale) gekennzeichnet ist, darf nicht verkauft 
+      oder auf andere Weise zu einem Gegenwert übertragen oder 
+      zu anderen Zwecken als zur Demonstration, zum Testen oder 
+      Bewerten verwendet werden.
+
+11. SOFTWARE ALS SCHULVERSION. Um Software zu verwenden, 
+      die als "Schulversion" oder "AE" (Academic Edition) 
+      gekennzeichnet ist, müssen Sie "eine berechtigte 
+      Benutzerin oder ein berechtigter Benutzer einer 
+      anerkannten Bildungseinrichtung" sein. Für Fragen zu 
+      dieser Berechtigung wenden Sie sich bitte an Microsoft 
+      Sales Information Center, One Microsoft Way, Redmond, 
+      WA, 98052-6399, USA, oder eine Microsoft-Niederlassung 
+      in Ihrem Land.
+
+12. AUSFUHRBESCHRÄNKUNGEN. Sie erkennen an, dass die 
+      Software dem Exportrecht der USA unterliegt. Sie stimmen 
+      zu, alle anwendbaren internationalen und nationalen 
+      Gesetze einzuhalten, die für die Software gelten, 
+      einschließlich der Regelungen der USA zur Exportkontrolle 
+      (Export Administration Regulations) sowie Beschränkungen 
+      im Hinblick auf Endbenutzer, Endbenutzung und 
+      Bestimmungsort, die von der Regierung der USA und anderen 
+      Regierungen erlassen wurden. Weitere Informationen finden 
+      Sie unter http://www.microsoft.com/exporting/.
+
+13. SOFTWAREÜBERTRAGUNG. 
+      Intern. Sie sind berechtigt, die Software auf einen anderen 
+      Arbeitsstationscomputer zu verschieben. Nach der Übertragung 
+      sind Sie verpflichtet, die Software vollständig vom vorherigen 
+      Arbeitsstationscomputer zu entfernen. 
+      Übertragung an Dritte. Der ursprüngliche Benutzer der 
+      Software kann dieses EULA und die Software einmalig und 
+      dauerhaft an einen anderen Endbenutzer übertragen, 
+      vorausgesetzt, der ursprüngliche Benutzer behält keine 
+      Kopien der Software. Diese Übertragung muss alle 
+      Bestandteile der Software enthalten (einschließlich 
+      aller Komponenten, der Medien und gedruckten Materialien, 
+      aller Updates, dieses EULAs und gegebenenfalls des 
+      Certificate of Authenticity (Echtheitszertifikat)). 
+      Diese Übertragung darf nicht als indirekte Übertragung, 
+      beispielsweise als Kommission, erfolgen. Vor der 
+      Übertragung muss der Endbenutzer, der die Software 
+      empfängt, allen Bestimmungen des EULAs zustimmen.
+
+14. KÜNDIGUNG. Unbeschadet sonstiger Rechte ist Microsoft 
+      berechtigt, dieses EULA zu kündigen, falls Sie gegen die 
+      Bestimmungen dieses EULAs verstoßen. In einem solchen 
+      Fall sind Sie verpflichtet, sämtliche Kopien der Software 
+      und alle ihre Komponenten zu vernichten.
+
+15. GESAMTER VERTRAG; ABTRENNBARKEIT. Dieses EULA 
+      (einschließlich aller Nachträge oder Ergänzungsvereinbarungen 
+      zu diesem EULA, die im Lieferumfang der Software enthalten 
+      sind) stellt den vollständigen Vertrag zwischen Ihnen und 
+      Microsoft in Bezug auf die Software und (falls zutreffend) die 
+      Supportleistungen dar. Es hat Vorrang vor allen vorherigen 
+      oder gleichzeitigen mündlichen oder schriftlichen Mitteilungen, 
+      Angeboten und Nachweisungen in Bezug auf die Software oder 
+      ein anderes durch dieses EULA abgedecktes Thema. Falls und 
+      in dem Maße, in dem die Bestimmungen einer Microsoft-Richtlinie 
+      oder eines Microsoft-Programms für Supportleistungen den 
+      Bestimmungen dieses EULAs widersprechen, haben die 
+      Bestimmungen dieses EULAs Vorrang. Falls eine Bestimmung 
+      dieses EULAs für nichtig, ungültig, nicht vollstreckbar 
+      oder illegal erklärt wird, bleibt der Rest des Vertrags 
+      weiterhin vollständig wirksam.
+
+
+GARANTIE VON MICROSOFT
+
+Folgende Garantie wird Ihnen von Microsoft Corporation, One 
+Microsoft Way, Redmond, WA 98052-6399, USA gewährt:
+
+Garantie - Vorausgesetzt, Sie haben eine gültige Lizenz und 
+Sie haben das Produkt nicht direkt von Microsoft erworben 
+(in diesem Fall finden Ihre gesetzlichen 
+Gewährleistungsansprüche gegen Microsoft Anwendung), 
+garantiert Microsoft, dass das Produkt für einen Zeitraum 
+von 90 Tagen ab dem Datum des Erhalts Ihrer Lizenz zur 
+Nutzung des Produkts gemäß den schriftlichen Materialien, 
+die dem Produkt beiliegen, arbeiten wird. Falls das Produkt 
+dieser Garantie nicht entspricht, wird Microsoft entweder 
+(a) das Produkt reparieren oder ersetzen, oder (b) den von 
+Ihnen gezahlten Preis erstatten. Diese Garantie gilt nicht, 
+wenn der Fehler des Produkts auf einen Unfall, Mißbrauch 
+oder fehlerhafte Anwendung zurückzuführen ist. Für jedes 
+Ersatzprodukt gilt eine Garantie für die restliche Zeit des 
+ursprünglichen Garantiezeitraumes oder für 30 Tage, wobei der 
+längere Zeitraum maßgebend ist. Für Schadensersatz und Ersatz 
+vergeblicher Aufwendungen, der sich aus dieser Garantie 
+ergibt, haftet Microsoft nur im Falle von Verschulden 
+gemäß der nachfolgenden Ziffer mit der Überschrift 
+"Haftungsbeschränkung".
+
+Das Produkt wurde für allgemeine Zwecke entwickelt und 
+angeboten und nicht für besondere Zwecke eines Benutzers. Sie 
+erkennen an, dass kein Produkt fehlerfrei ist, und wir raten 
+Ihnen dringend, Ihre Dateien regelmäßig zu sichern. Sie 
+erkennen an, dass die vorstehende Garantie Ihre einzige 
+von Microsoft gewährte Garantie in Bezug auf das Produkt ist. 
+
+Gesetzliche Rechte bleiben unberührt - Die Garantie ist nicht 
+auf ein bestimmtes Gebiet beschränkt und berührt nicht Ihre 
+gesetzlichen Rechte, die Sie möglicherweise gegen Ihren 
+Händler haben. 
+
+HAFTUNGSBESCHRÄNKUNG. Für Schadensersatz oder Ersatz 
+vergeblicher Aufwendungen, gleich aus welchem Rechtsgrund 
+einschließlich unerlaubter Handlung, gelten die folgenden 
+Regelungen: 
+
+Microsoft haftet bei Vorsatz, grober Fahrlässigkeit sowie bei 
+Ansprüchen nach dem Produkthaftungsgesetz nach den gesetzlichen
+Vorschriften. Wenn Sie das Produkt in Deutschland erworben 
+haben, haftet Microsoft auch bei Verletzung von Leben, Körper 
+oder der Gesundheit nach den gesetzlichen Vorschriften.
+
+Microsoft haftet nicht für leichte Fahrlässigkeit. Wenn Sie 
+das Produkt jedoch in Deutschland erworben haben, haftet 
+Microsoft auch für leichte Fahrlässigkeit, wenn Microsoft 
+eine wesentliche Vertragspflicht verletzt. In diesen Fällen 
+ist die Haftung von Microsoft auf typische und vorhersehbare 
+Schäden beschränkt. In allen anderen Fällen einschließlich 
+unerlaubter Handlung haftet Microsoft auch in Deutschland 
+nicht für leichte Fahrlässigkeit. 
+
+ANWENDBARES RECHT. Wenn Sie dieses Produkt in der 
+Europäischen Union, Island, Norwegen oder in der Schweiz 
+erworben haben, gilt das Recht des Landes, in dem Sie das 
+Softwareprodukt erworben haben. Ansonsten unterliegt dieses 
+EULA dem Recht des Staates Washington, USA.
+
+
+Falls Sie Fragen zu diesem EULA haben oder wenn Sie aus 
+irgendeinem Grund mit Microsoft Kontakt aufnehmen möchten, 
+verwenden Sie bitte die diesem Produkt beiliegende 
+Adresseninformation, um die Microsoft-Niederlassung in Ihrem 
+Land zu kontaktieren, oder besuchen Sie Microsoft im World 
+Wide Web unter http://www.microsoft.com.
+
+
+EULAID:XPSP1_RM.1_PRO_RTL_DE

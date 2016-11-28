@@ -1,0 +1,6 @@
+KollegInnenliste;Kollegenliste.php
+E-Mailadressen Kollegium;emailadressen.php
+Klassen-/Kurslisten;Klassenliste.php
+Bücherliste;Buecherliste.php
+Fortbildungsliste;Fortbildungsliste.php
+Startseite Lehrerbereich;/

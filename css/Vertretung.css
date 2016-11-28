@@ -1,0 +1,180 @@
+a img:hover { background-color: white;
+}
+a:hover {
+	background-color: #ababab;
+	color: #ffffff;
+}
+img {
+  border-width: 0pt;
+}
+.Liste {
+  border-collapse: collapse;
+  margin: 5pt;
+  width: 95%;
+}
+table.Liste td {
+  background-color:#f3f3f3;
+  border-width:1px 1px 1px 1px;
+  border-style:solid;
+  border-color:#6699cc;
+}
+table.Liste th {
+  background-color:#e9e9e9;
+  border-width:1px 1px 1px 1px;
+  border-style:solid;
+  border-color:#6699cc;
+}
+table.Liste td.Zwischenueberschrift {
+  background-color:#d1d1d1;
+  font-weight: bold;
+}
+table.Stundenplantabelle {
+
+  text-align: center;
+  table-layout: fixed;
+}
+table.Stundenplantabelle a {
+  font-size: 8pt;
+}
+table.Stundenplantabelle td {
+  border-collapse: collapse;
+}
+table.Stundenplantabelle td.Zelle {
+	min-width: 80px;
+	min-height: 90px;
+	height: 90px;
+	width: 90px;
+	padding-left: 3px;
+    padding-right: 3px;
+   	padding-top: 3px;
+   	padding-bottom: 0px;
+   	padding-left-ltr-source: physical;
+    padding-left-rtl-source: physical;
+    padding-right-ltr-source: physical;
+    padding-right-rtl-source: physical;
+    white-space: nowrap;
+}
+.Stundenplan_Fach { font-weight: bold; font-size: 8pt;}
+.Stundenplan_Lehrer { font-size: 8pt;}
+.Stundenplan_Klasse { font-size: 8pt;}
+.Stundenplan_Raum { font-size: 8pt;}
+.Stundenplan_Aenderung {
+  background-color: #FF7F7F;
+  overflow:auto;
+  font-size: 7pt;
+  font: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+}
+.Stundenplan_Aenderung a {
+  font-size: 8pt;
+}
+table.Liste td.Liste_Ausfall {
+  background-color: #60FF00;
+}
+table.Liste td.Liste_VertretungVorhanden {
+  background-color: #FF0020;
+}
+table.Liste td.Liste_Gesperrt {
+  background-color: #E06060;
+}
+table.Liste td.Liste_AktiveStunde {
+  background-color: #FFBF00;
+}
+table.Liste td.Liste_Unterricht {
+  background-color: gray;
+}
+.Stundenplan_Normal {
+  overflow:auto;
+}
+.BemerkungsIcon {
+  float: right;
+}
+
+.mini { font-size: 6pt; }
+.zelle_markiert_bg { background-color: #FFBF00;}
+.Eintrag_verschiebbar { background-color: #00FFAF; }
+
+Form.Verhinderung {
+  background-color:#e9e9e9;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #6699cc;
+  padding: 3px;
+}
+.Fehler {
+  background-color: red;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.Hinweis {
+  background-color: green;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.Termin {
+  overflow:auto;
+  font-size: 8pt;
+}
+div.Termin .Uhrzeit {
+  font-size: 6pt;
+}
+.Termininfo { font-style: italic; font-size: 6pt; }
+
+input[type=text]:focus, input[type=password]:focus, input[type=radio]:focus,
+textarea:focus, select:focus
+{
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-color: #6699cc;
+}
+input[type=submit], input[type=reset]
+{
+    background-color: #BFBFBF;
+    background-image: none;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    -x-background-x-position: 0%;
+    -x-background-y-position: 0%;
+    -moz-background-clip: initial;
+    -moz-background-origin: initial;
+    -moz-background-inline-policy: initial;
+    color: rgb(34, 34, 34);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: outset;
+    border-right-style: outset;
+    border-bottom-style: outset;
+    border-left-style: outset;
+    border-top-color: rgb(204, 204, 204);
+    border-right-color: rgb(204, 204, 204);
+    border-bottom-color: rgb(204, 204, 204);
+    border-left-color: rgb(204, 204, 204);
+    padding-top: 0.1em;
+    padding-right-value: 0.5em;
+    padding-bottom: 0.1em;
+    padding-left-value: 0.5em;
+    padding-left-ltr-source: physical;
+    padding-left-rtl-source: physical;
+    padding-right-ltr-source: physical;
+    padding-right-rtl-source: physical;
+}
+input[type=submit]:hover, input[type=reset]:hover
+{
+    background-color: rgb(204, 204, 187);
+    background-image: none;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    -x-background-x-position: 0%;
+    -x-background-y-position: 0%;
+    -moz-background-clip: initial;
+    -moz-background-origin: initial;
+    -moz-background-inline-policy: initial;
+}

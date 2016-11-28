@@ -1,0 +1,7 @@
+Vertretung planen;VertretungPlanen.php?Liste=1
+Vert.-Plan;../StuPla/Vertretungsplan.php
+Stundenplan;PlanAnzeigen.php
+Sperrungen;VertretungSperrung.php
+Statistik;VertretungStatistik.php
+Lehrerstatistik;VertretungLehrerStatistik.php
+Interner Lehrerbereich;/
